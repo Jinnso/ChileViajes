@@ -1,0 +1,112 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+}
+
+
+/* Navbar */
+
+nav img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.navbar-brand,
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+}
+
+.fondo-navbar {
+    background-color: #00A5BB;
+}
+
+
+/* Header */
+
+#Hero-Section img {
+    height: 100vh;
+}
+
+
+/* Seccion Quienes Somos */
+
+#QuienesSomos {
+    font-family: 'Raleway', sans-serif;
+}
+
+#QuienesSomos hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 95%;
+}
+
+#QuienesSomos article div {
+    background-color: #00A5BB;
+    padding: 0 8px;
+    cursor: pointer;
+}
+
+#QuienesSomos article div:hover {
+    background-color: #14717e;
+}
+
+#QuienesSomos article div i {
+    color: #fff;
+}
+
+#QuienesSomos .color-tooltip {
+    background-color: #f0e5d8;
+}
+
+
+/* Destacados */
+
+#Destacados {
+    font-family: 'Raleway', sans-serif;
+}
+
+#Destacados hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 93%;
+}
+
+#Destacados img {
+    max-height: 158.63px;
+}
+
+#Destacados .card-body {
+    background-color: #00A5BB;
+    color: #fff;
+}
+
+
+/* Contacto */
+
+#Contacto {
+    font-family: 'Raleway', sans-serif;
+}
+
+#Contacto hr {
+    color: #00A5BB;
+    border: 1px solid;
+    width: 93%
+}
+
+
+/* Footer */
+
+footer {
+    background-color: #00A5BB;
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:visited {
+    color: #fff
+}
+
+
